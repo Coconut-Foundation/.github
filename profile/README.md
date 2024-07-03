@@ -12,3 +12,4 @@
   - Carla - PO
   - Sanches - Dev
   - Cauê - Dev
+  - Eduardo Cavazin
