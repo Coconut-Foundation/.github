@@ -1,4 +1,4 @@
-# COCONUT
+# MYTHUS
 
 ## Team Eduardo
   - Eduardo - Scrum Master
